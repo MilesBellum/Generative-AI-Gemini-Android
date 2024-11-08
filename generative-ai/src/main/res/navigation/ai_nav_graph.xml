@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ai_nav_graph"
+    app:startDestination="@id/AiFragment">
+
+    <fragment
+        android:id="@+id/AiFragment"
+        android:name="com.eagb.generative_ai.AiFragment"
+        android:label="@string/app_name"
+        tools:layout="" />
+
+</navigation>

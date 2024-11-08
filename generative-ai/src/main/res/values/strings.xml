@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobile Chapter Sessions</string>
+    <string name="text_prompt_hint_how_can_i_help">How can I help you?</string>
+    <string name="error_prompt_something_went_wrong">Something went wrong. Try again</string>
+</resources>

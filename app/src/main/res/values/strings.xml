@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GenerativeAI Gemini</string>
+
+    <string name="title_home_label">Generative AI</string>
+
+    <string name="text_generative_ai">Generative AI</string>
+</resources>
