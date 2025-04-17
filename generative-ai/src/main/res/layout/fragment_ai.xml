@@ -83,14 +83,13 @@
                 android:id="@+id/col_send_container"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:layout_marginStart="8dp"
                 app:layout_constraintTop_toTopOf="@id/til_prompt"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintBottom_toBottomOf="@id/til_prompt">
 
                 <Button
                     android:id="@+id/img_send_prompt"
-                    android:layout_width="wrap_content"
+                    android:layout_width="65dp"
                     android:layout_height="wrap_content"
                     android:enabled="false"
                     android:layout_gravity="center"
